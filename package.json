@@ -1,0 +1,13 @@
+{
+  "name": "Contact-keeper",
+  "version": "1.0.0",
+  "description": "Contact Keeper app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
